@@ -8,4 +8,4 @@ Tiling Window Manager modified from [Luke Smith's dwm](https://github.com/LukeSm
 + vlc
 + newsboat
 + flameshot
-+ 
++ dmenu
