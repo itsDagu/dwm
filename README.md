@@ -14,7 +14,7 @@ Tiling Window Manager modified from [Luke Smith's dwm](https://github.com/LukeSm
 
 ## dwm installation
 ```
-git clone https://github.com/itsDagu/slstatus
-cd slstatus
+git clone https://github.com/itsDagu/dwm
+cd dwm
 sudo make clean install
 ```
