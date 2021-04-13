@@ -1,7 +1,7 @@
 # dwm
-Tiling Window Manager modified from [Luke Smith's dwm](https://github.com/LukeSmithxyz/dwm) fork.
+Tiling Window Manager modified from [Luke Smith's dwm](https://github.com/LukeSmithxyz/dwm) fork. Original software from https://suckless.org.
 
-![screenshot of dwm desktop](https://github.com/itsDagu/dwm/images/comfy_linux.png)
+![screenshot of dwm desktop](https://raw.githubusercontent.com/itsDagu/dwm/master/images/comfy_linux.png)
 
 ## things to install
 + betterlockscreen
