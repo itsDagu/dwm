@@ -11,3 +11,10 @@ Tiling Window Manager modified from [Luke Smith's dwm](https://github.com/LukeSm
 + newsboat
 + flameshot
 + dmenu
+
+## dwm installation
+```
+git clone https://github.com/itsDagu/slstatus
+cd slstatus
+sudo make clean install
+```
